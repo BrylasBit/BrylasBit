@@ -12,7 +12,7 @@ I'm a results-driven technical professional transitioning from high-tech pharmac
 - **🏭 Manufacturing Excellence**: 10 years at Reckitt with deep expertise in GMP-regulated systems (Werum PAS-X, MES)
 - **🎵 Creative Engineering**: Music production discipline applied to software architecture
 - **🤖 AI-First Mindset**: Hands-on with LLM co-development (Claude, GPT-4)
-- **🎓 Formal Education**: BSc Computer Science with AI @ Nottingham Trent University (In Progress)
+- **🎓 Formal Education**: currently BSc cyber security in Birmingham University (In Progress)
 
 **My Philosophy**: Moving from being a *user* of complex systems to being the *architect* behind them.
 
@@ -31,7 +31,7 @@ Regulated Envs:  GMP Compliance | MES Systems | Data-Driven Automation
 
 ## 🎯 Featured Projects
 
-### 🎹 **BRYLA$ ULTRA** - Web-Based Audio Production Engine
+### 🎹 **BRYLA$ MPC ULTRA** - Web-Based Audio Production Engine
 *Professional-grade digital audio workstation for browser*
 
 - High-performance Web Audio API implementation
